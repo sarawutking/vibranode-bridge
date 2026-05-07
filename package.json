@@ -1,0 +1,17 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@flowfuse/node-red-dashboard": "~1.30.2",
+        "@gogovega/firebase-config-node": "^0.3.4",
+        "@gogovega/node-red-contrib-firebase-realtime-database": "~0.8.2",
+        "@iorsan/node-red-contrib-firebase-cloud-messaging": "~2.0.0",
+        "node-red-contrib-firebase": "~1.1.1",
+        "node-red-contrib-firebase-data": "~0.0.11",
+        "node-red-contrib-firebase-messaging-advanced": "~1.0.0",
+        "node-red-contrib-firebase-realtime-database": "~1.0.9",
+        "node-red-dashboard": "^3.6.6"
+    }
+}
